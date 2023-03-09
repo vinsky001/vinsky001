@@ -1,9 +1,9 @@
                                 ### Hi there 👋
 
-                            My name is Elvis Kibet
-                       Currently based in Nairobi, Kenya.
-            I'm a Software Engineer with communication skills for both humans👨‍👩‍👧 && machines🚀
-             I look forward to joining a remote team and becoming an integral part of a team.
+ > <p> My name is Elvis Kibet. <br>
+ > Currently based in Nairobi, Kenya.  <br>
+ > I'm a Software Engineer with communication skills for both humans👨‍👩‍👧 && machines🚀 <br />
+ > I look forward to joining a remote team and becoming an integral part of a team. </p>
 
 
 ###Menu
