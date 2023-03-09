@@ -12,7 +12,18 @@
   - [Github Trophies](#github-trophies)
   - [📱 Contact](#-You-can-reach-me-here)
              
-             
+  ### Technologies
+- - - -
+ <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    
+ </p>
+ 
+ 
+ ### My Github Stats 
+- - - -
+
+[![Vinsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsky001)](https://github.com/vinsky001/github-readme-stats)
              
              
              
