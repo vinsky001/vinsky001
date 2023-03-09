@@ -6,7 +6,11 @@
  > I look forward to joining a remote team and becoming an integral part of a team. </p>
 
 
-###Menu
+## Menu
+  - [Technology Stack](#technologies)
+  - [Github Stats](#my-github-stats)
+  - [Github Trophies](#github-trophies)
+  - [📱 Contact](#-You-can-reach-me-here)
              
              
              
