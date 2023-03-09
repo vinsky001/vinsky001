@@ -24,6 +24,11 @@
 - - - -
 
 [![Vinsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsky001)](https://github.com/vinsky001/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinsky001&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/vinsky001)
+
+![vinsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsky001&show_icons=true&theme=radical)
+
              
              
              
