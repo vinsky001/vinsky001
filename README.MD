@@ -35,6 +35,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/vinsky001/github-readme-stats)
 
+
+  
+## Github Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=vinsky001&theme=algolia&column=4">
+
              
              
              
