@@ -1,4 +1,6 @@
-                                ### Hi there 👋
+
+
+### Hi there 👋
 
  > <p> My name is Elvis Kibet. <br>
  > Currently based in Nairobi, Kenya.  <br>
@@ -31,9 +33,9 @@
 
 [![vinsky's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vinsky001&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vinsky001/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vinsky001&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vinsky001/github-readme-stats#gh-light-mode-only)
+[![vinsky's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vinsky001&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vinsky001/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/vinsky001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinsky001)](https://github.com/vinsky001/github-readme-stats)
 
 
   
@@ -44,18 +46,24 @@
              
              
              
-             
-   <div id="badges">
-                      <a href="your-linkedin-URL">
-                  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-                      </a>
-                                     <a href="your-youtube-URL">
-             <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-                      </a>
-                     <a href="your-twitter-URL">
-                <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-                </a>
-          </div>
+ ### 📫 You can reach me here:  
+<a href="https://www.linkedin.com/in/elvis-kibet-/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<a href="https://www.instagram.com/elvis_vinsky/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+<a href="mailto:ekibet544@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+
+ 
+ - - - - 
+ <p  align="right">
+  <a href="#top">Back to top</a>
+ </p>
+ 
+ 
              
              
              
