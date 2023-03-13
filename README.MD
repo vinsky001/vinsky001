@@ -7,14 +7,7 @@
  > I'm a Software Engineer with communication skills for both humans👨‍👩‍👧 && machines🚀 <br />
  > I look forward to joining a remote team and becoming an integral part of a team. </p>
 
-             
-  ### Technologies
-- - - -
- <p align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    
- </p>
- 
+  
  
  ### My Github Stats 
 - - - -
