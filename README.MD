@@ -31,16 +31,10 @@
 
 ![vinsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsky001&show_icons=true&theme=radical)
 
-[![vinsky's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vinsky001&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vinsky001/github-readme-stats#gh-dark-mode-only)
-
-[![vinsky's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vinsky001&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vinsky001/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinsky001)](https://github.com/vinsky001/github-readme-stats)
 
 
   
-## Github Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=vinsky001&theme=algolia&column=4">
+
 
              
              
