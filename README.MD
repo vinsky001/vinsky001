@@ -7,12 +7,6 @@
  > I'm a Software Engineer with communication skills for both humans👨‍👩‍👧 && machines🚀 <br />
  > I look forward to joining a remote team and becoming an integral part of a team. </p>
 
-
-## Menu
-  - [Technology Stack](#technologies)
-  - [Github Stats](#my-github-stats)
-  - [Github Trophies](#github-trophies)
-  - [📱 Contact](#-You-can-reach-me-here)
              
   ### Technologies
 - - - -
