@@ -34,9 +34,7 @@ Tech toolkit: <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net
 <a href="https://www.linkedin.com/in/elvis-kibet-/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://www.instagram.com/elvis_vinsky/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
 <a href="mailto:ekibet544@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
