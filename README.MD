@@ -5,7 +5,7 @@
  > <p> My name is Elvis Kibet. <br>
  > Currently based in Nairobi, Kenya.  <br>
  > I'm a Software Engineer with communication skills for both humans👨‍👩‍👧 && machines🚀 <br />
- > I'm like to collaborate in areas relating to back-end software engineering inorder to give solutions to emerging issues affectiong the word. </p>
+ > I'm like to collaborate in areas relating to back-end software engineering inorder to give solutions to emerging issues affectiong the world. </p>
 
   
  
